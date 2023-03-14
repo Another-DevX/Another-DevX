@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋, I'm Another-DevX
+Front-End Web Developer 🚀
+About Me:
+👀 I'm interested in web development and technology
+🌱 I'm currently learning ReactJS
+💞️ I'm looking to collaborate on open source projects
 
-<!--
-**Another-DevX/Another-DevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 
-Here are some ideas to get you started:
+Connect with me:
+[Tu nombre en LinkedIn](tu perfil de LinkedIn)
+[Tu nombre en Twitter](tu perfil de Twitter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me for any collaborations or just for some interesting discussion. 😄
