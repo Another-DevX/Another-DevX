@@ -17,4 +17,5 @@ My curiosity about the world of data science and artificial intelligence continu
 When I'm not working on web development projects or learning about data science and AI, I immerse myself in reading, studying, and contributing to the Web2 and Web3 development communities. I'm passionate about helping and sharing knowledge, and I'm always seeking ways to enhance my skills and knowledge in the world of technology. Additionally, I've collaborated on Web3 projects, using Solidity to create smart contracts and integrating them on the front-end to provide decentralized and secure experiences.
 
 <h3 align="left">Languages and Tools:</h3>
-https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
