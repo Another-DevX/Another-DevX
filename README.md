@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Luis
-## Full-stack Engennier 🚀
+## Full-stack Enginner 🚀
 ### About Me:
 - 🔭 I’m currently working on [ClickGreen](https://www.clickgreenapp.com/)
 - 👀 I'm interested in web3 development 
