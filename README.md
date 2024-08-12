@@ -3,7 +3,7 @@
 ### About Me:
 - 🔭 I’m currently working at [Kolektivo labs](https://www.kolektivo.co/)
 - 👀 I'm interested in web3 development 
-- 🌱 I'm currently learning Account Abstraction and ZK-Proofs
+- 🌱 I'm currently learning Cryptography
 - 💞️ I'm looking to collaborate on open source projects
 
 I'm passionate about full-stack web development and dedicated to creating interactive and dynamic web pages using different tools and frameworks. On the front-end, I use React.js to create graphical interfaces and reactive components that allow effective interactions with users. I also have experience with Next.js to enhance the efficiency and scalability of my applications.
